@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-keymap_keyword = '(?:KEYMAP|LAYOUT_2u_inner)'
+keymap_keyword = '(?:KEYMAP|LAYOUT_4key_2u_inner)'
 layout_editor_json = 'keyboards/ergodash_2u_inner/layout_editor.json'
 
 ascii_art = '''
